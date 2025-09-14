@@ -1,0 +1,12 @@
+{
+  "name": "simulador-mario-kart",
+  "version": "1.0.0",
+  "description": "Simulador de corridas inspirado em Mario Kart para terminal (Node.js)",
+  "main": "src/simulador.js",
+  "scripts": {
+    "start": "node src/simulador.js"
+  },
+  "keywords": ["mario kart", "simulador", "terminal", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
